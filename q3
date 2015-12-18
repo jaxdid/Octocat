@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a track of successive commits made within a repository. Multiple branches can exist in parallel, tracking and pointing to different sets of commits, and can be navigated between, merged and discarded, as needed.
