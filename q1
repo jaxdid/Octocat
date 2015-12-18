@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+"git clone" copies an existing repository into a new directory, automatically creating and checking out into a branch forked from the active branch of the original repository.
